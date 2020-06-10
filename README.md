@@ -24,6 +24,6 @@ Foi exigido os seguintes items:
 
 OBS:
 Infelizmente não pude concluir o escopo acima por falta de maquina corporativa.
-(Por ser Windows 10 Home com 4Gb de RAM, a virualização de 8 maquinas Dockers e do Linux Host consumia mais de 8Gb estourando o barramento de 64bit da swap)
+(Por ser Windows 10 Home com 4Gb de RAM, a virualização de 8 containers Dockers e do Linux Host consumia mais de 8Gb estourando o barramento de 64bit da swap)
 Foi possivel realizar até o item 5.
 Havendo viabilização será concluido.
